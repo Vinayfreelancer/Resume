@@ -1,37 +1,103 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<title>RESUME</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body style="Calibri">
+<div>
+<br>
+<center>
 
-You can use the [editor on GitHub](https://github.com/Vinayfreelancer/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<font face="HP Simplified Light" color=""><b>CONTACT</b></font>
+</center>	
+<hr width="45%">
+<center>
+<img src="1.png" height=15px;>8800565688<br>
+<img src="2.png" height=15px;> bansalvinay2001@gmail.com<br> 
+<img src="3.png" height=15px;> github.com/vinayfreelancer<br>
+<img src="4.png" height=15px border="white" ;> Linkedin.com/vinay
+</center>
+<br><br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<center><font face="HP Simplified Light" color=""><b>LANGUAGES KNOWN</b></font></center>
+<hr width="80%">
+<ul>
+	<li>English</li>
+	<li>Hindi</li>	
+	<li>Partially French</li>
+</ul>
 
-### Markdown
+<center><font face="HP Simplified Light" color=""><b>INTERESTS</b></font></center>
+<hr width="50%">
+<ul>
+	<li>Cricket</li>
+	<li>Badminton</li>
+	<li>Coding</li>	
+</ul>
+</div>
+<div2>
+	<font face="HP Simplified Light" color="">
+	<h1 align="center">VINAY BANSAL </h1>  
+</font>
+<hr width="20%" color="black">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<font face="HP Simplified Light" size="5"><b>CAREER OBJECTIVE</b> </font><hr width="25%" color="black" align="left">
+<font size="3">
+Looking for a challenging role in a reputable organization to utilize my technical and leadership skills for the growth of the company as well as to enhance my knowledge about emerging trends in the Technology Sector.<br></font><br>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<font face="HP Simplified Light" size="5"><b>EDUCATION</b></font><hr width="20%" color="black" align="left">
+<table border=2 cellpadding="2" cellspacing="2" >
+  <font size="3">
+  <tr align="center" bgcolor="#666699">
+    <th>Examination</th>
+    <th>Year </th>
+    <th>School/University</th>
+    <th>Grade</th>
+  </tr>
+  <tr align="center">
+    <td>Class XII(CBSE)</td>
+    <td>2019</td>
+    <td>DIS, Faridabad</td>
+    <td>75%</td>
+  </tr>
+  <tr align="center">
+    <td>Class X(CBSE)</td>
+    <td>2017</td>
+    <td>DIS, Faridabad</td>
+    <td>85%</td>
+  </tr>
+  <tr align="center">
+    <td>1st Year</td>
+    <td>End Semester</td>
+    <td>MRIIRS</td>
+    <td>80%</td>
+  </tr>
+  
+</font>
+</table><br>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<font face="HP Simplified Light" size="5"><b>SKILLS</b> </font><hr width="10%" color="black" align="left">
+<font size="3">
+<ul>
+	<li>Professional communication, leadership, adaptability</li>
+	<li>User interface designer(UI/UX), Hands on prgramming languages such as C++, HTML, PHP, Basic Python</li>
+</ul>
+</font>
 
-**Bold** and _Italic_ and `Code` text
+<font face="HP Simplified Light" size="5"><b>TECHNICAL AND EXTRA-CURRICULAR ACHIEVEMENTS</b></font><hr width="60%" color="black" align="left">
+<font size="3">
+	<ul>
+<li><b>Online Professional Writer</b> (2018-2021)
+<li><b>District Level Cricketer </b>(2017)
+<li>1-day workshop,<b> arduino </b> by MRU (2019) 
 
-[Link](url) and ![Image](src)
-```
+</ul>
+</font>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+</div2>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vinayfreelancer/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
